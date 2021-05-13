@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cormac0108/TodoReact/static/css/main.3c4d81c6.chunk.css",
+    "main.js": "/cormac0108/TodoReact/static/js/main.824e6630.chunk.js",
+    "main.js.map": "/cormac0108/TodoReact/static/js/main.824e6630.chunk.js.map",
+    "runtime-main.js": "/cormac0108/TodoReact/static/js/runtime-main.dc6fa286.js",
+    "runtime-main.js.map": "/cormac0108/TodoReact/static/js/runtime-main.dc6fa286.js.map",
+    "static/js/2.d6f92434.chunk.js": "/cormac0108/TodoReact/static/js/2.d6f92434.chunk.js",
+    "static/js/2.d6f92434.chunk.js.map": "/cormac0108/TodoReact/static/js/2.d6f92434.chunk.js.map",
+    "static/js/3.5546fd0e.chunk.js": "/cormac0108/TodoReact/static/js/3.5546fd0e.chunk.js",
+    "static/js/3.5546fd0e.chunk.js.map": "/cormac0108/TodoReact/static/js/3.5546fd0e.chunk.js.map",
+    "index.html": "/cormac0108/TodoReact/index.html",
+    "static/css/main.3c4d81c6.chunk.css.map": "/cormac0108/TodoReact/static/css/main.3c4d81c6.chunk.css.map",
+    "static/js/2.d6f92434.chunk.js.LICENSE.txt": "/cormac0108/TodoReact/static/js/2.d6f92434.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc6fa286.js",
+    "static/js/2.d6f92434.chunk.js",
+    "static/css/main.3c4d81c6.chunk.css",
+    "static/js/main.824e6630.chunk.js"
+  ]
+}
